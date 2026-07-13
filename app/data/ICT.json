@@ -1,0 +1,199 @@
+{
+  "Hardware and Software": {
+    "syllabus_content": [
+      "Hardware",
+      "CPU",
+      "Processor",
+      "Motherboard",
+      "RAM",
+      "ROM",
+      "Graphics card",
+      "Sound card",
+      "Network Interface Card (NIC)",
+      "Camera",
+      "Internal storage devices",
+      "External storage devices",
+      "Input devices",
+      "Output devices",
+      "Applications software",
+      "Word processing",
+      "Spreadsheet",
+      "Database management systems",
+      "Control software",
+      "Measurement software",
+      "Applets",
+      "Apps",
+      "Video editing",
+      "Graphics editing",
+      "Audio editing",
+      "Computer Aided Design (CAD)",
+      "System software",
+      "Compilers",
+      "Linkers",
+      "Device drivers",
+      "Operating systems",
+      "Utilities",
+      "Analogue data",
+      "Digital data",
+      "Analogue to digital conversion",
+      "Digital to analogue conversion"
+    ]
+  },
+  "Main Components of Computer Systems": {
+    "syllabus_content": [
+      "Role of CPU",
+      "Processing instructions",
+      "ROM characteristics",
+      "RAM characteristics",
+      "Differences between ROM and RAM",
+      "Input device characteristics",
+      "Output device characteristics",
+      "Differences between input and output devices",
+      "Backing storage characteristics",
+      "Differences between backing storage and internal memory"
+    ]
+  },
+  "Operating Systems": {
+    "syllabus_content": [
+      "Command Line Interface (CLI)",
+      "Graphical User Interface (GUI)",
+      "Dialogue-based interface",
+      "Gesture-based interface",
+      "Differences between operating system types",
+      "Advantages of operating system types",
+      "Disadvantages of operating system types"
+    ]
+  },
+  "Types of Computer": {
+    "syllabus_content": [
+      "Desktop computers",
+      "Laptop computers",
+      "Smartphones",
+      "Tablet computers",
+      "Large-screen smartphones",
+      "Office use",
+      "Business management",
+      "Education",
+      "Gaming",
+      "Entertainment",
+      "Remotely controlled devices",
+      "Portability",
+      "Expandability"
+    ]
+  },
+  "Emerging Technologies": {
+    "syllabus_content": [
+      "Artificial Intelligence (AI)",
+      "Virtual Reality (VR)",
+      "Augmented Reality (AR)",
+      "Impact of emerging technologies on everyday life"
+    ]
+  },
+  "Input Devices": {
+    "syllabus_content": [
+      "Keyboard",
+      "Numeric keypad",
+      "Pointing devices",
+      "Remote control",
+      "Joystick",
+      "Driving wheel",
+      "Touch screen input",
+      "Scanner",
+      "Camera",
+      "Microphone",
+      "Sensors",
+      "Light pen"
+    ]
+  },
+  "Direct Data Entry": {
+    "syllabus_content": [
+      "Magnetic stripe reader",
+      "Chip and PIN reader",
+      "Radio frequency identification reader",
+      "OMR",
+      "OCR",
+      "Barcode reader",
+      "QR scanner"
+    ]
+  },
+  "Output Devices": {
+    "syllabus_content": [
+      "Monitor",
+      "Touch screen output",
+      "Multimedia projector",
+      "Laser printer",
+      "Ink-jet printer",
+      "Dot matrix printer",
+      "Plotter",
+      "3D printer",
+      "Speaker",
+      "Actuator"
+    ]
+  },
+  "Storage Devices": {
+    "syllabus_content": [
+      "Magnetic storage",
+      "Optical storage",
+      "Solid-state storage",
+      "Hard disk drive",
+      "Portable hard drive",
+      "Magnetic tape",
+      "CD",
+      "DVD",
+      "Blu-ray",
+      "SSD",
+      "Pen drive",
+      "Flash drive"
+    ]
+  },
+  "Storage Media": {
+    "syllabus_content": [
+      "Magnetic disks",
+      "Magnetic tape",
+      "CD",
+      "DVD",
+      "Blu-ray",
+      "Memory cards",
+      "SD card",
+      "xD card",
+      "CFast card"
+    ]
+  },
+  "Networks": {
+    "syllabus_content": [
+      "Router",
+      "Network Interface Card (NIC)",
+      "Hub",
+      "Bridge",
+      "Switch",
+      "Wi-Fi",
+      "Bluetooth",
+      "Cloud computing",
+      "Cloud storage",
+      "Internet",
+      "Intranet",
+      "External network",
+      "LAN",
+      "Wireless LAN (WLAN)",
+      "WAN"
+    ]
+  },
+  "Network Security and Communication": {
+    "syllabus_content": [
+      "Privacy",
+      "Confidentiality",
+      "Strong passwords",
+      "Weak passwords",
+      "Biometric authentication",
+      "Magnetic stripe authentication",
+      "Smart cards",
+      "Physical tokens",
+      "Electronic tokens",
+      "Anti-malware software",
+      "Anti-virus software",
+      "Video conferencing",
+      "Audio conferencing",
+      "Web conferencing"
+    ]
+  }
+}
